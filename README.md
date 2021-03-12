@@ -24,4 +24,12 @@ This pack also contains the best Emulators ever for the Nintendo DS :
 
 ## Games
 I do not approve of piracy and therefore no illegal copies of games are included 
-in this pack, only one game is included for two consoles : FlappyBird for GameBoy Advance and Nintendo DS by [Polymars](https://github.com/PolyMarsDev)
+in this pack, only one game is included for two consoles : FlappyBird for GameBoy Advance and Nintendo DS by [Polymars](https://github.com/PolyMarsDev), 
+The inclusion of this game in the pack is only for experimental purposes in order to test the functions of the YSMenu and the emulators.
+
+## Cheats 
+The cheat codes available in this pack are from DeadSkullZ Jr's Cheat Database.
+
+# How to install ?
+
+To install YSMenu on your flashcard : open the .zip file available [here]() ,go to the folder correspondant with your model of flashcard, copy all the content of the folder in the Root of your Flashcard's SD Card (in sdmc:// )
