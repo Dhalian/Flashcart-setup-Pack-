@@ -18,6 +18,6 @@ This pack also contains the best Emulators ever for the Nintendo DS :
 - [DSPack]()
 - [ColecoDS]() by [Alekmaul](https://github.com/alekmaul) 
 - [NitroGrafX]() by 
-- [SNEmulDS]() by Coto and bubble2k
-- [nesDS]() by Coto and 
+- [SNEmulDS]() by [Coto](https://github.com/cotodevel) and bubble2k
+- [nesDS]() by [Coto](https://github.com/cotodevel) and huiminghao
 - [PicoDriveTWL]() by [RocketRobz](https://github.com/RocketRobz) and [RyanFB]()
