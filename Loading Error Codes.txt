@@ -1,0 +1,6 @@
+errcode=-4/-5/-6/-8
+Required loading data missing in infolib or kernel can't interpret ARM9
+Also caused by outdated ttpatch.dat/r4patch.dat/m3patch.dat (file depends on which cart you are using)
+errcode=-81/-82/-83
+Caused by fragmentation on your µSD. Backup µSD to PC, then Full format with the Panasonic SD Formatter to rectify
+Any other error codes during loading, please refer to your carts website

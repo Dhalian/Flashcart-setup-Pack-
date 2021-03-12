@@ -1,0 +1,34 @@
+# General Credits : 
+
+Yasu : YSMenu
+RetroGameFan : All Game (EXTINFO/INFOLIB/SAVLIB) fixes except mentioned below
+2ch : Kernel fixes : CWBP, NTRJ-D236BA5C. Game fixes : AQRP, VIDV, VIDE, BQNP, BQNE, TADJ, TADE, TADP, B3NE, B3NP, TGTP. Save fixes : UZPJ, UZPP
+DSTT.net : Original TTMenu up to v1.17
+Xenon : M3 Compatability
+SuperCard/Moonlight : DSONE/i MSFORSC.nds
+DeadSkullZJR : usrcheat.dat
+Jimmsu : Beta Tester
+Rudolph, Boyakkey, ashley, Pendor, denieru7 and anyone else that worked on extinfo/infolib/savlib (pre March 2010)
+
+# Emulators : 
+
+GBARunner2 : Gericom
+PicoDriveTWL : RocketRobz/ RyanFB/ DS-Homebrew
+GameYob : Drenn1
+SNEmulDS(Revival) : bubble2k/ Coto
+XEGS-DS : Alekmaul/ wavemotion-dave
+A7800-DS : Alekmaul/ wavemotion-dave
+A5200-DS : Alekmaul/ wavemotion-dave
+StellaDS : Alekmaul/ wavemotion-dave
+ColecoDS : Alekmaul
+nesDS : huiminghao/ Coto
+NitroGrafX : FluBBa
+A2DS : Grizzly Adams
+PokeMini DS : JustBurner
+DSPack : Copper
+vectxDS : Alekmaul
+
+# Games : 
+
+FlappyBird DS : Polymars 
+FlappyBird GBA : N/A

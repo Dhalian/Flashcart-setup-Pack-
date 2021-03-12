@@ -1,0 +1,19 @@
+Soft Reset: In game, Press L+R+X+Y+B+A
+
+Cheats: In YSMenu, Press Y on the game you want to use cheats on. Select the cheats you want, then press START to save and return to YSMenu
+
+Delete: In YSMenu, Press X to delete a file. (You'll need to edit the following line in YSMenu.ini to: NO_DEL=false)
+
+Screen Brightness: In YSMenu, touch top-left corner of bottom screen (does not work on 3DS)
+
+Save Type: All .sav are created by default as FLASH 512kb FF padded files, except for games listed in savlib.dat
+
+Skin: 256x192 24-bit depth 15-bit colour .bmp (YSMenu1.bmp for top, YSMenu2.bmp for bottom screen, placed in your TTMenu folder)
+
+Skin Colour: To change the font colour, edit these values in YSMenu.ini :
+COLOR_PATH=0x801F
+COLOR_FILE=0xC210
+COLOR_FOLDER=0x8000
+COLOR_SELECT=0xDF7C
+COLOR_SELTEXT=0x8C0E
+COLOR_TEXT=0x801F
