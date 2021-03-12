@@ -32,7 +32,7 @@ The cheat codes available in this pack are from DeadSkullZ Jr's Cheat Database.
 
 # How to install ?
 
-To install YSMenu on your flashcard : open the .zip file available [here]() ,go to the folder correspondant with your model of flashcard, copy all the content of the folder in the Root of your Flashcard's SD Card ```in sdmc://```
+To install YSMenu on your flashcard : open the .zip file available [here](https://github.com/Dhalian/Flashcart-setup-Pack-/releases) ,go to the folder correspondant with your model of flashcard, copy all the content of the folder in the Root of your Flashcard's SD Card ```in sdmc://```
 
 # Where do i put my roms ?
 # GBA and SNES roms
