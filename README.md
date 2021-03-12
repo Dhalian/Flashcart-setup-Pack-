@@ -16,8 +16,8 @@ This pack also contains the best Emulators ever for the Nintendo DS :
 - [XEGS-DS]() by [Alekmaul](https://github.com/alekmaul) and [wavemotion-dave](https://github.com/wavemotion-dave)
 - [PokeMiniDS](https://www.gamebrew.org/wiki/PokeMini_DS) by JustBurner
 - [DSPack](https://www.gamebrew.org/wiki/DSPack) by Copper
-- [ColecoDS]() by [Alekmaul](https://github.com/alekmaul) 
-- [NitroGrafX]() by FluBBa
-- [SNEmulDS]() by [Coto](https://github.com/cotodevel) and [bubble2k](https://github.com/bubble2k16)
-- [nesDS]() by [Coto](https://github.com/cotodevel) and huiminghao
+- [ColecoDS](https://www.gamebrew.org/wiki/ColecoDS) by [Alekmaul](https://github.com/alekmaul) 
+- [NitroGrafX](https://www.gamebrew.org/wiki/NitroGrafx) by FluBBa
+- [SNEmulDS](https://github.com/cotodevel/SnemulDS) by [Coto](https://github.com/cotodevel) and [bubble2k](https://github.com/bubble2k16)
+- [nesDS](https://github.com/RocketRobz/NesDS) by [Coto](https://github.com/cotodevel) and huiminghao
 - [PicoDriveTWL]() by [RocketRobz](https://github.com/RocketRobz) and [RyanFB](https://github.com/ryanfb)
