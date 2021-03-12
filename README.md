@@ -4,7 +4,14 @@ A folder that contains all you need to install YSMenu and the best emulators on 
 # Content
 ## YSMenu 
 This pack is based on the RetroGameFan Multicart Update.
-It contains YSMenu configuration files for a lot of Flashcards.
+It contains YSMenu configuration files for : 
+- R4i-SDHC
+- R4-SDHC
+- DSTTi-Clone
+- DSONEi SDHC
+- M3Real & M3iZero
+- R4-Clone
+- DSTWO
 
 ## Emulators
 This pack also contains the best Emulators ever for the Nintendo DS : 
