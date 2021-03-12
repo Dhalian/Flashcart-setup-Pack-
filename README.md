@@ -21,3 +21,7 @@ This pack also contains the best Emulators ever for the Nintendo DS :
 - [SNEmulDS](https://github.com/cotodevel/SnemulDS) by [Coto](https://github.com/cotodevel) and archeide
 - [nesDS](https://github.com/RocketRobz/NesDS) by [Coto](https://github.com/cotodevel) and huiminghao
 - [PicoDriveTWL]() by [RocketRobz](https://github.com/RocketRobz) and [RyanFB](https://github.com/ryanfb)
+
+## Games
+I do not approve of piracy and therefore no illegal copies of games are included 
+in this pack, only one game is included for two consoles : FlappyBird for GameBoy Advance and Nintendo DS by [Polymars](https://github.com/PolyMarsDev)
