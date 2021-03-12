@@ -10,14 +10,14 @@ It contains YSMenu configuration files for a lot of Flashcards.
 This pack also contains the best Emulators ever for the Nintendo DS : 
 - [GBARunner2]() by [Gericom]()
 - [GameYob]() by [Drenn1]()
-- [StellaDS]() by [Alekmaul]() and [wavemotion-dave]()
-- [A5200-DS]() by [Alekmaul]() and [wavemotion-dave]()
-- [A7800-DS]() by [Alekmaul]() and [wavemotion-dave]()
-- [XEGS-DS]() by [Alekmaul]() and [wavemotion-dave]()
+- [StellaDS]() by [Alekmaul](https://github.com/alekmaul) and [wavemotion-dave](https://github.com/wavemotion-dave)
+- [A5200-DS]() by [Alekmaul](https://github.com/alekmaul) and [wavemotion-dave](https://github.com/wavemotion-dave)
+- [A7800-DS]() by [Alekmaul](https://github.com/alekmaul) and [wavemotion-dave](https://github.com/wavemotion-dave)
+- [XEGS-DS]() by [Alekmaul](https://github.com/alekmaul) and [wavemotion-dave](https://github.com/wavemotion-dave)
 - [PokeMiniDS]()
 - [DSPack]()
-- [ColecoDS]() by [Alekmaul]()
+- [ColecoDS]() by [Alekmaul](https://github.com/alekmaul) 
 - [NitroGrafX]() by 
 - [SNEmulDS]() by Coto and bubble2k
 - [nesDS]() by Coto and 
-- [PicoDriveTWL]() by [RocketRobz]() and [RyanFB]()
+- [PicoDriveTWL]() by [RocketRobz](https://github.com/RocketRobz) and [RyanFB]()
