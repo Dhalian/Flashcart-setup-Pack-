@@ -13,6 +13,9 @@ It contains YSMenu configuration files for :
 - R4-Clone
 - DSTWO
 
+## Original Kernels
+You can also find the Original Kernels of your flashcard in the Second Release
+
 ## Emulators
 This pack also contains the best Emulators ever for the Nintendo DS : 
 - [GBARunner2](https://github.com/Gericom/GBARunner2) by [Gericom](https://github.com/gericom)
