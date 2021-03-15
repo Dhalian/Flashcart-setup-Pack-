@@ -15,6 +15,10 @@ It contains YSMenu configuration files for :
 
 ## Original Kernels
 You can also find the Original Kernels of your flashcard in the Second Release
+It contains R4 configuration files for : 
+- R4i-SDHC
+- R4-SDHC
+- R4-Rev
 
 ## Emulators
 This pack also contains the best Emulators ever for the Nintendo DS : 
