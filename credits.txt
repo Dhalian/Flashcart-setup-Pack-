@@ -32,3 +32,4 @@ vectxDS : Alekmaul
 
 FlappyBird DS : Polymars 
 FlappyBird GBA : N/A
+SnakeDS : Polymars
